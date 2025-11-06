@@ -1,12 +1,12 @@
 - 👋 Hi, I’m citurinn
 - 👀 I’m interested in game development, making my own tools
-- 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently developing games.
 - 📫 How to reach me: citurinn@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I won't give up before that code works!!!
 
-- I have been developing games since 2020 with Unity Engine.
+- I have been developing games since 2020 with Unity Engine and Godot. I am currently learning Unreal.
+- 
 - GAMES:
 - Lost Pit DEMO --> https://citurinn.itch.io/lost-pit-demo
-**I WILL BE UPLOADING AS I LEARN ENOUGH**
+- Pizza Ride --> https://play.google.com/store/apps/details?id=com.cautiousgames.pizzaride&pcampaignid=web_share
+- Kral Suyu [2023 MAĞARAJAM] --> https://citurinn.itch.io/kral-suyu
+
